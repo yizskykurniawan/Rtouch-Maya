@@ -1,4 +1,4 @@
-# Rtouch
+# Rtouch 2.0
 Object-space translation and rotation tool for Maya with dynamic pivot support.
 
 ```ruby
