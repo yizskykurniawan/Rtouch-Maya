@@ -1,5 +1,5 @@
 # Rtouch
-Object-space translation and rotation tool for Autodesk Maya with dynamic pivot support.
+Object-space translation and rotation tool for Maya with dynamic pivot support.
 
 ```ruby
 from maya import cmds
