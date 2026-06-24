@@ -2,9 +2,6 @@
 Object-space translation and rotation tool for Autodesk Maya with dynamic pivot support.
 
 ```ruby
-# Rtouch Move+Rotate Tool (object-space, world-distance & object-space rotation, dynamic pivot)
-# Works in Python (maya.cmds + PySide2). Paste in Script Editor and run.
-
 from maya import cmds
 from PySide2 import QtWidgets, QtCore, QtGui
 
