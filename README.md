@@ -7,6 +7,8 @@ Object-space translation and rotation tool for Maya with dynamic pivot support.
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
+### Rtouch v2.0 (Use in Maya)
+Copy and drop into Python command. Run it!
 ```ruby
 from maya import cmds
 from PySide2 import QtWidgets, QtCore, QtGui
@@ -253,3 +255,5 @@ All code and flow in this page, iterate by Yizsky Kurniawan.
 
 License Creative Commons Attribution. 
 (Can use for commercial / personal use)
+
+Thank you!
