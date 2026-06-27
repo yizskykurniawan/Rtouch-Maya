@@ -1,7 +1,7 @@
 # Rtouch 2.0
 Object-space translation and rotation tool for Maya with dynamic pivot support.
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 <img width="326" height="593" alt="image" src="https://github.com/user-attachments/assets/64c2b6a6-c17a-4701-a93a-8b5515744c94" />
 
@@ -252,4 +252,4 @@ show_ui()
 All code and flow in this page, iterate by Yizsky Kurniawan.
 
 License Creative Commons Attribution. 
-(Use for commercial / personal use)
+(Can use for commercial / personal use)
