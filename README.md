@@ -254,5 +254,3 @@ show_ui()
 Build withn Python + Maya
 
 Thank you!
-
-Thank you!
