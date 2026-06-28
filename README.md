@@ -251,6 +251,6 @@ def show_ui():
 show_ui()
 ```
 
-Build withn Python + Maya
+Build with Python + Maya
 
 Thank you!
